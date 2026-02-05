@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=ff9ecf&size=20&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Building+Scalable+Web+Apps;AI+%7C+Machine+Learning+Explorer;Future+Software+Engineer" />
 </p>
 
-━━━━━━━━━━━ ♡ ━━━━━━━━━━━
+
 
 
 ## 🌷 About Me
